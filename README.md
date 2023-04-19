@@ -10,3 +10,4 @@ Will make a backup in ~/valheim_backups_4u
 TODO: 
 * Better docs
 * Make valheim plus source url dynamic
+* Check signature before download
