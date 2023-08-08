@@ -21,7 +21,7 @@ cp -br "$TARGET_DIR"/* "$BACKUP_DIR"/Valheim."$DATE"
 
 echo "Installing ValheimPlus at ${TARGET_DIR}..."
 
-wget "https://github.com/Grantapher/ValheimPlus/releases/download/0.9.9.15/UnixServer.tar.gz" -O - |
+wget "https://github.com/Grantapher/ValheimPlus/releases/download/0.9.9.16/UnixServer.tar.gz" -O - |
 tar -xzvf - --directory="${TARGET_DIR}" &&
 chmod u+x "${TARGET_DIR}/start_game_bepinex.sh"
 
