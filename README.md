@@ -1,3 +1,5 @@
+# Archived on 2024-05-03 because vanilla Valheim now includes most of the functionality that valheim-plus offered and the mod appears to be unmaintained.
+
 # valheim-plus-installer-linux
 A small bash script to install valheim plus on linux
 
